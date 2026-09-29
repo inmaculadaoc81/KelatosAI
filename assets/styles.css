@@ -20,3 +20,7 @@
 /* Centrar texto del CTA de reunión */
 .action-meet{justify-content:center!important;text-align:center!important;position:relative}
 .action-meet>span[aria-hidden="true"]{position:absolute;right:24px}
+
+/* Borde blanco para botones flotantes de chat y WhatsApp */
+.float-wa{border:3px solid #fff!important}
+#n8n-chat .chat-window-toggle,#n8n-chat [class*="chat-window-toggle"]{border:3px solid #fff!important}
