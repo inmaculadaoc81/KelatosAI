@@ -10,3 +10,9 @@
 .action-meet:hover{background:#3fcabb!important;color:#fff!important}
 .action span,.action strong{color:#fff!important}
 @media(max-width:480px){.hero-actions{grid-template-columns:1fr!important}.action{border-radius:999px!important}}
+
+/* Mejor contraste del CTA de reunión */
+.action-meet{background:#61e4d5!important;color:#061321!important;font-weight:800!important}
+.action-meet span,.action-meet strong{color:#061321!important}
+.action-meet:hover{background:#7aeadf!important;color:#061321!important}
+.action-meet:hover span,.action-meet:hover strong{color:#061321!important}
