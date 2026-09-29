@@ -24,3 +24,7 @@
 /* Borde blanco para botones flotantes de chat y WhatsApp */
 .float-wa{border:3px solid #fff!important}
 #n8n-chat .chat-window-toggle,#n8n-chat [class*="chat-window-toggle"]{border:3px solid #fff!important}
+
+/* Ajuste borde botones flotantes */
+.float-wa{border-width:2px!important}
+#n8n-chat .chat-window-toggle,#n8n-chat [class*="chat-window-toggle"]{border-width:2px!important}
