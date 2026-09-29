@@ -16,3 +16,7 @@
 .action-meet span,.action-meet strong{color:#061321!important}
 .action-meet:hover{background:#7aeadf!important;color:#061321!important}
 .action-meet:hover span,.action-meet:hover strong{color:#061321!important}
+
+/* Centrar texto del CTA de reunión */
+.action-meet{justify-content:center!important;text-align:center!important;position:relative}
+.action-meet>span[aria-hidden="true"]{position:absolute;right:24px}
