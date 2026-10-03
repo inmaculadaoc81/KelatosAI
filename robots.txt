@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://servidorlocalinteligenciaartificial.com.es/sitemap.xml
